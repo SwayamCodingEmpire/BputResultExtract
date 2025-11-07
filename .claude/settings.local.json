@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Ref__ref_read_url"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
